@@ -1,2 +1,5 @@
 # alpine-openrc
-Alpine with OpenRC (only) 
+
+OpenRC as init system in container
+
+-   timezone (CST)
